@@ -1,8 +1,8 @@
 /*
-WHATSAPP BOT BY akila sadanuwan 
-WHATSAPP - 94767973534
-SUPPORT GROUP - https://whatsapp.com/channel/0029Va8uJ6Z3wtbID5IBlF1i
-YOUTUBE - https://www.youtube.com/channel/UCUe9w7u-att6miTlkeUmGPQ
+WHATSAPP BOT BY Janith sadanuwan 
+WHATSAPP - 94767438882
+SUPPORT GROUP - https://t.me/QueenNilu
+YOUTUBE - http://youtube.com/janithsadanuwan
 */
 
 const fs = require('fs');
