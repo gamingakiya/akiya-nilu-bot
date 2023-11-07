@@ -71,7 +71,7 @@ global.ANTI_BOTS = true
 
 global.ONLY_GROUP = 'false' // Only group mode
 
-global.GROUP_LINK = 'https://whatsapp.com/channel/0029Va8uJ6Z3wtbID5IBlF1i' // ur group link
+global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
 
 
 /* 18 + Download Settings */
